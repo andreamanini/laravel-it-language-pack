@@ -2,4 +2,4 @@
 
 Italian Language Pack for Laravel 9+
 
-Clone this repo in your app's lang/it to make it working
+Clone this repo in your app's lang/it directory to make it working
