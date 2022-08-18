@@ -43,6 +43,7 @@
         'digits_between' => "':attribute' deve essere compreso tra :min e :max caratteri.",
         'dimensions' => "Le dimensioni immagine di ':attribute' non sono valide",
         'distinct' => "':attribute' contiene dei valori duplicati",
+        'doesnt_start_with' => ':attribute non può iniziare con uno dei seguenti valori: :values.',
         'email' => "':attribute' deve essere un indirizzo email valido.",
         'ends_with' => "':attribute' deve terminare con uno dei seguenti: :values.",
         'enum' => "L'elemento ':attribute' selezionato non è valido.",
